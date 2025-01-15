@@ -1,4 +1,4 @@
-module github.com/Trendyol/go-pq-cdc
+module github.com/vskurikhin/go-pq-cdc
 
 replace github.com/Trendyol/go-pq-cdc => github.com/vskurikhin/go-pq-cdc
 
